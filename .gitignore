@@ -1,0 +1,8 @@
+.DS_Store
+.gradle/
+.vscode/
+Process-README.md
+storage/
+node_modules/
+bin/
+build/
